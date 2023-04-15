@@ -1038,7 +1038,7 @@ a:focus {
 }
 #experiences .timeline .event .event-right.last-event::before {
   top: 45px;
-  height: calc(100% - 45px);
+  height: calc(100% - 200px);
 }
 #experiences .timeline .event .event-right::after {
   position: absolute;
